@@ -1,6 +1,6 @@
 # AndroidStudio--videogame
 
-This is a simple VideoGame inspired in ancient videogames.
+This is a simple Android Game inspired in ancient videogames.
 
 A user can:
 
