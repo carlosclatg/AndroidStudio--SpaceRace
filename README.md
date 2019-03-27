@@ -10,3 +10,5 @@ A user can:
 - Pause the game
 - Capture coin and earn points
 
+![alt text](https://github.com/carlosclatg/AndroidStudio--videogame/blob/master/Space.png)
+
