@@ -1,6 +1,7 @@
 # AndroidStudio--videogame
 
 This is a simple Android Game inspired in ancient videogames.
+The library used is LibGDX.
 
 A user can:
 
