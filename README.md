@@ -1,15 +1,13 @@
-# AndroidStudio--videogame
+# AndroidStudio--SpaceRace
 
-This is a simple Android Game inspired in ancient videogames.
-The library used is LibGDX.
+This is a simple Android Game inspired by ancient videogames, developed in Java using the LibGDX library.
 
 A user can:
 
 - Move the spacecraft
 - Fire a laser
-- Can be hitten by a asteroid
+- Get hit by an asteroid
 - Pause the game
-- Capture coin and earn points
+- Capture coins and earn points
 
-![alt text](https://github.com/carlosclatg/AndroidStudio--videogame/blob/master/Space.png)
-
+![alt text](https://github.com/carlosclatg/AndroidStudio--SpaceRace/blob/master/Space.png)
